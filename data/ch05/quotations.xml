@@ -1,0 +1,26 @@
+<quotations>
+  <quotation>
+    <stock_code>600864</stock_code>
+    <trade_date>20210104</trade_date>
+    <open_price>8.59</open_price>
+    <close_price>8.34</close_price>
+  </quotation>
+  <quotation>
+    <stock_code>600584</stock_code>
+    <trade_date>20210104</trade_date>
+    <open_price>42.5</open_price>
+    <close_price>42.53</close_price>
+  </quotation>
+  <quotation>
+    <stock_code>600864</stock_code>
+    <trade_date>20210105</trade_date>
+    <open_price>8.4</open_price>
+    <close_price>8.51</close_price>
+  </quotation>
+  <quotation>
+    <stock_code>600584</stock_code>
+    <trade_date>20210105</trade_date>
+    <open_price>42.25</open_price>
+    <close_price>42.29</close_price>
+  </quotation>
+</quotations>

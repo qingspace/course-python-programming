@@ -1,0 +1,28 @@
+# Log file
+*.log
+*.log.*
+logs/*
+
+# Package Files #
+*.zip
+*.tar.gz
+
+# Windows caches
+Thumbs.db
+
+# Mac caches
+.DS_Store
+
+# PyCharm
+__pycache__/
+*.pyc
+
+# VScode
+.vscode/
+
+# Python
+.ipynb_checkpoints/
+~*.*
+
+# PyCharm
+.idea/
